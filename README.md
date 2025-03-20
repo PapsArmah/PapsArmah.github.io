@@ -1,7 +1,7 @@
 # Papa Ekow Armah — Financial Planning and Analysis Project Repository
 
 ## What this repository contains
-This repository includes projects and files I have worked on as a Financial Planning and Analysis (FP&A) analyst. Each project is based on real business scenarios where I have:  
+This repository includes projects and files I have worked on as a Financial data analyst. Each project is based on real business scenarios where I have:  
 - Analyzed gross profit by branch, product category, and vendor.  
 - Created monthly revenue forecasts using past sales data and seasonal patterns.  
 - Built pricing models to help guide margin optimization and vendor price decisions.  
